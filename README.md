@@ -1,5 +1,6 @@
 # POI-WiFi
 Progetto di GPOI (progettazione di una rete WiFi per il turista)
+**PROJECT CHARTER**
 ## OBIETTIVO
 -sviluppare  un'applicazione che permetta di fare un giro turistico per le città diversamente dalla classica guida.
 ### DELIVERABLE
