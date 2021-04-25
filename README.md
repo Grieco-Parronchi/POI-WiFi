@@ -30,10 +30,21 @@ Inzio progetto previsto per il 13 aprile, conclusione prevista entro un mese.
 
 # **RBS e costi**
 ## Acquisizione ambiente di sviluppo
-- Risorse umane: q=5h| pu=40| **TOT**=200 
-- Materiali: q=5 licenze| pu=700| **TOT**=3500
+- Risorse umane: q=5h|pu=40|**TOT**=200 
+- Materiali: q=5 licenze|pu=700|**TOT**=3500
 ## Trainig
+- Risorse umane1: q=18h|pu=40|**TOT**=720
+- Risorse umane2: q=20h|pu=20|**TOT**=600
 ## Progettazione
+- Risorse umane1: q=36h|pu=40|**TOT**=1440
+- Risorse umane2: q=32h|pu=20|**TOT**=640
+- Materiali: spazio su resver + 20 foto|pu=100 + 3|**TOT**=160
 ## Interfaccia
+- Risorse umane1: q=4h|pu=40|**TOT**=160
+- Risorse umane2: q=10h|pu=70|**TOT**=700
+- Risorse umane3: q=14h|pu=85|**TOT**=1190
 ## Test di prova
+- Risorse umane: q=16h|pu=20|**TOT**=320
 ## Installazione e collaudo finale
+- Risorse umane: q=16h|pu=20|**TO**=320
+- Materiali: dispositivi multimediali=1|pu=90|**TOT**=90
