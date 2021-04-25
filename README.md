@@ -40,7 +40,7 @@ Inzio progetto previsto per il 13 aprile, conclusione prevista entro un mese.
 - Risorse umane2: q=32h|pu=20|**TOT**=640
 - Materiali: spazio su resver + 20 foto|pu=100 + 3|**TOT**=160
 ## Interfaccia
-- Risorse umane1: q=4h|pu=40|**TOT**=160
+- Risorse umane1: q=7h|pu=40|**TOT**=240
 - Risorse umane2: q=10h|pu=70|**TOT**=700
 - Risorse umane3: q=14h|pu=85|**TOT**=1190
 ## Test di prova
