@@ -26,3 +26,14 @@ Inzio progetto previsto per il 13 aprile, conclusione prevista entro un mese.
 ## STRUTTURA ORGANIZZATIVA
 - Il project manager sarà ProjectManger1.
 - Il team del progetto comprenderà altri 2 partecipanti, ComponenteTeam1 e ComponenteTeam2.
+
+
+# **RBS e costi**
+## Acquisizione ambiente di sviluppo
+- Risorse umane: q=5h; pu=40 **TOT**=200 
+- Materiali: q=5 licenze; pu=700 **TOT**=3500
+## Trainig
+## Progettazione
+## Interfaccia
+## Test di prova
+## Installazione e collaudo finale
