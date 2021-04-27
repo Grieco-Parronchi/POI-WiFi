@@ -16,7 +16,7 @@ Sviluppare  un'applicazione che permetta a chi ne ha intersse di effettare un gi
 - Creare una pagina multimediale di base.
 - Creare una pagina multimediale avanzata.
 ## VINCOLI E DIPENDENZE
-- Creare un server.
+- Server.
 - Creare diverse pagine web.
 ## TEMPO
 Inzio progetto previsto per il 2 aprile, conclusione prevista entro il 3 maggio.
