@@ -22,7 +22,7 @@ Sviluppare  un'applicazione che permetta a chi ne ha intersse di effettare un gi
 Inzio progetto previsto per il 2 aprile, conclusione prevista entro il 3 maggio.
 ## RISORSE E COSTI
 - Disporre di uno spazio su un server.
-- Disporre di foto da reperire su i diversi POI della città.
+- Disporre di foto.
 ## STRUTTURA ORGANIZZATIVA
 - Il project manager sarà ProjectManger1.
 - Il team del progetto comprenderà altri 2 partecipanti, ComponenteTeam1 e ComponenteTeam2.
